@@ -2015,3 +2015,4 @@ http://83.6.231.32:6969/announce
 udp://222.84.20.18:6969/announce
 http://222.84.20.18:6969/announce
 http://tk.greedland.net:80/announce
+https://api.aag.moe/api/tracker/announce
